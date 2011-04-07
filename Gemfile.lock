@@ -1,9 +1,9 @@
 GIT
   remote: git://github.com/timurvafin/tumblr-dashboard-rss.git
-  revision: 1a3207a9850302ed651d51227467502ea985a362
-  tag: v0.2.0
+  revision: 856c591d8495b4d8e38e3fe5f271e732908846bc
+  tag: v0.3.0
   specs:
-    tumblr_dashboard_rss (0.1.0)
+    tumblr_dashboard_rss (0.3.0)
       activesupport (= 3.0.0)
       builder (= 2.1.2)
       httparty (= 0.6.1)
